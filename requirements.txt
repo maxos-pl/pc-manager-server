@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+databases[postgresql]
+sqlalchemy
+pydantic
+psycopg2-binary
+python-multipart
+python-dotenv
+aiofiles
